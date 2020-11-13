@@ -1,3 +1,6 @@
+
+![](https://komarev.com/ghpvc/?username=vanessa-nascimento&color=blueviolet&style=flat-square&label=Visitas)
+
 ###  👋 Olá! Boas vindas
 
 Sou Front-end no PicPay, atuo na área desde 2016 e sou graduanda em Sistemas de Informação na USP.
@@ -29,4 +32,3 @@ Sou mãe de dois gatinhos, o Gohan e a Mia 🐈
 <a href="https://www.linkedin.com/in/vanessa-nascimento-03"><img src="https://github.com/vanessa-nascimento-03/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/vanessa-nascimento-03)  
 
 
-![](https://komarev.com/ghpvc/?username=vanessa-nascimento&color=blue&style=flat
