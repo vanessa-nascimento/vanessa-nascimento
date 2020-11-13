@@ -2,12 +2,14 @@
 ![](https://komarev.com/ghpvc/?username=vanessa-nascimento&color=blueviolet&style=flat-square&label=Visitas)
 
 ###  👋 Olá! Boas vindas
+Sou Front-end no PicPay, graduanda em Sistemas de Informação na USP, atuando na área desde 2016. 
 
-Sou Front-end no PicPay, atuo na área desde 2016 e sou graduanda em Sistemas de Informação na USP.
-
-Amo ler 📚, animes, memes, metal e qualquer coisa nerd que tem por aí.
-
-Sou mãe de dois gatinhos, o Gohan e a Mia 🐈
+- 📚 Amo livros
+- 🛫 Viagens
+- 🤓 Animes e qualquer coisa nerd que tem por aí.
+- 😂 Memes
+- 🤘 Metal
+- 🐈 Mãe de dois gatinhos, o Gohan e a Mia
 
 <center>
 <table>
@@ -29,8 +31,15 @@ Sou mãe de dois gatinhos, o Gohan e a Mia 🐈
 
 #### Minhas redes
 
-<span><a href="https://www.linkedin.com/in/vanessa-nascimento-03"><img src="https://github.com/vanessa-nascimento/vanessa-nascimento/blob/main/002-linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/vanessa-nascimento-03)</span>
-<span><a href="https://www.twitter.com/vanenascimento_"><img src="https://github.com/vanessa-nascimento/vanessa-nascimento/blob/main/027-twitter.png" width="16"></img></a> [Twitter](https://www.linkedin.com/in/vanenascimento_)</span>
+<a href="https://www.linkedin.com/in/vanessa-nascimento-03"><img src="https://github.com/vanessa-nascimento/vanessa-nascimento/blob/main/002-linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/vanessa-nascimento-03)
+
+<a href="https://www.twitter.com/vanenascimento_"><img src="https://github.com/vanessa-nascimento/vanessa-nascimento/blob/main/027-twitter.png" width="16"></img></a> [Twitter](https://www.linkedin.com/in/vanenascimento_)
+
+<a href="
+https://open.spotify.com/user/21peotxptos3mgz4ct5pmtupa?si=1g3gDdbCRoi0v55REwckEQ"><img src="https://github.com/vanessa-nascimento/vanessa-nascimento/blob/main/057-spotify.png" width="16"></img></a> [Spotify](
+https://open.spotify.com/user/21peotxptos3mgz4ct5pmtupa?si=1g3gDdbCRoi0v55REwckEQ)
+
+
 
 
 
