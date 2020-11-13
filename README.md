@@ -29,4 +29,4 @@ Sou mãe de dois gatinhos, o Gohan e a Mia 🐈
 <a href="https://www.linkedin.com/in/vanessa-nascimento-03"><img src="https://github.com/vanessa-nascimento-03/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/vanessa-nascimento-03)  
 
 
-![](https://komarev.com/ghpvc/?username=vanessa-nascimento&color=pink&style=flat
+![](https://komarev.com/ghpvc/?username=vanessa-nascimento&color=blue&style=flat
