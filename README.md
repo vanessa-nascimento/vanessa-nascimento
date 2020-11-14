@@ -1,7 +1,8 @@
 <img src="https://github.com/vanessa-nascimento/vanessa-nascimento/blob/main/capa-github.png">
 
-###  👋 Olá! Boas vindas
 ![](https://komarev.com/ghpvc/?username=vanessa-nascimento&color=blueviolet&style=flat-square&label=Visitas)
+
+###  👋 Olá! Boas vindas
 Sou Front-end no PicPay, graduanda em Sistemas de Informação na USP, atuando na área desde 2016. 
 
 Algumas coisas que gosto de fazer e fazem parte da minh vida são:
@@ -24,10 +25,10 @@ Algumas coisas que gosto de fazer e fazem parte da minh vida são:
 
 ### Tecnologias 
 
-<span><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></span>
-<span><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></span>
-<span><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></span>
-<span><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></span>
+<span><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></span>
+<span><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></span>
+<span><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></span>
+<span><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></span>
 
 
 ### Minhas redes
