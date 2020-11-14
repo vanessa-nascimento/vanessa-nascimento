@@ -4,6 +4,7 @@
 ###  👋 Olá! Boas vindas
 Sou Front-end no PicPay, graduanda em Sistemas de Informação na USP, atuando na área desde 2016. 
 
+Algumas coisas que gosto de fazer e fazem parte da minh vida são:
 - 📚 Amo livros
 - 🛫 Viagens
 - 🤓 Animes e qualquer coisa nerd que tem por aí.
@@ -29,7 +30,7 @@ Sou Front-end no PicPay, graduanda em Sistemas de Informação na USP, atuando n
 <span><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></span>
 
 
-#### Minhas redes
+### Minhas redes
 
 <a href="https://www.linkedin.com/in/vanessa-nascimento-03"><img src="https://github.com/vanessa-nascimento/vanessa-nascimento/blob/main/002-linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/vanessa-nascimento-03)
 
