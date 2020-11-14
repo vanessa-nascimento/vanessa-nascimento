@@ -1,7 +1,7 @@
-
-![](https://komarev.com/ghpvc/?username=vanessa-nascimento&color=blueviolet&style=flat-square&label=Visitas)
 <img src="https://github.com/vanessa-nascimento/vanessa-nascimento/blob/main/capa-github.png">
+
 ###  👋 Olá! Boas vindas
+![](https://komarev.com/ghpvc/?username=vanessa-nascimento&color=blueviolet&style=flat-square&label=Visitas)
 Sou Front-end no PicPay, graduanda em Sistemas de Informação na USP, atuando na área desde 2016. 
 
 Algumas coisas que gosto de fazer e fazem parte da minh vida são:
