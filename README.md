@@ -5,7 +5,7 @@
 ###  👋 Olá! Boas vindas
 Sou Front-end no PicPay, graduanda em Sistemas de Informação na USP, atuando na área desde 2016. 
 
-Algumas coisas que gosto de fazer e fazem parte da minh vida são:
+Algumas coisas que gosto de fazer e fazem parte da minha vida são:
 - 📚 Amo livros
 - 🛫 Viagens
 - 🤓 Animes e qualquer coisa nerd que tem por aí.
