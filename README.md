@@ -8,7 +8,7 @@ Sou Front-end no PicPay, graduanda em Sistemas de Informação na USP, atuando n
 Algumas coisas que gosto de fazer e fazem parte da minha vida são:
 - 📚 Amo livros
 - 🛫 Viagens
-- 🤓 Animes e qualquer coisa nerd que tem por aí.
+- 🤓 Animes e cultura nerd.
 - 😂 Memes
 - 🤘 Metal
 - 🐈 Mãe de dois gatinhos, o Gohan e a Mia
