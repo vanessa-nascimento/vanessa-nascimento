@@ -1,4 +1,4 @@
-<img src="https://github.com/vanessa-nascimento/vanessa-nascimento/blob/main/capa-github.png">
+<img src="https://github.com/vanessa-nascimento/vanessa-nascimento/blob/main/github-copia-1.png">
 
 ![](https://komarev.com/ghpvc/?username=vanessa-nascimento&color=blueviolet&style=flat-square&label=Visitas)
 
