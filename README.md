@@ -10,7 +10,7 @@
 - 🪴 Minhas áreas de pesquisa são Acessibilidade, Dados Abertos e Governo Aberto
 - 💻 Amo e faço parte de comunidades de inclusão feminina e impacto social através da tenologia
 - 🤓 Amo aprender linguagens e idiomas diferentes
-- 🍻 Adoro rir, me divertir com meus amigos, viajar e ficar com os meus cats, o Gohan e a Mia
+- 🍻 Adoro ler, rir, viajar, me divertir com meus amigos e ficar com os meus gatos, o Gohan e a Mia
 
 <center>
 <table>
