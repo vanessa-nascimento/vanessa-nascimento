@@ -4,7 +4,7 @@
 
 ###  👋 Olá! Boas vindas
 - 🥰 Muito prazer, sou a Vanessa!
-- 👩🏻‍💻 Engenheira de Software Front-end no PicPay
+- 👩🏻‍💻 Engenheira de Software Front-end no PicPay e tutora na Coderhouse BR
 - 👩🏻‍🎓 Graduanda em Sistemas de Informação na USP - Universidade de São Paulo
 - 🚀 Atuo na área desde 2016
 - 🪴 Minhas áreas de pesquisa são **Governo Aberto**, Acessibilidade Web e Dados Abertos
