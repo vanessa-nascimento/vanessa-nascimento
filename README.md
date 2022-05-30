@@ -3,15 +3,14 @@
 ![](https://komarev.com/ghpvc/?username=vanessa-nascimento&color=blueviolet&style=flat-square&label=Visitas)
 
 ###  👋 Olá! Boas vindas
-Sou Front-end no PicPay, graduanda em Sistemas de Informação na USP, atuando na área desde 2016. 
-
-Algumas coisas que gosto de fazer e fazem parte da minha vida são:
-- 📚 Amo livros
-- 🛫 Viagens
-- 🤓 Animes e cultura nerd.
-- 😂 Memes
-- 🤘 Metal
-- 🐈 Mãe de dois gatinhos, o Gohan e a Mia
+- 🥰 Muito prazer, sou a Vanessa!
+- 👩🏻‍💻 Engenheira de Software Front-end no PicPay
+- 👩🏻‍🎓 Graduanda em Sistemas de Informação na USP - Universidade de São Paulo
+- 🚀 Atuo na área desde 2016
+- 🪴 Minhas áreas de pesquisa são Acessibilidade, Dados Abertos e Governo Aberto
+- 💻 Amo e faço parte de comunidades de inclusão feminina e impacto social através da tenologia
+- 🤓 Amo aprender linguagens e idiomas diferentes
+- 🍻 Adoro rir, me divertir com meus amigos, viajar e ficar com os meus cats, o Gohan e a Mia
 
 <center>
 <table>
