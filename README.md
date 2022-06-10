@@ -12,6 +12,15 @@
 - 🤓 Amo aprender linguagens e idiomas diferentes
 - 🍻 Adoro ler, rir, viajar, me divertir com meus amigos e ficar com os meus gatos, o Gohan e a Mia 🐱🐱
 
+### Minhas redes
+
+<a href="https://www.linkedin.com/in/vanessa-nascimento-03"><img src="https://github.com/vanessa-nascimento/vanessa-nascimento/blob/main/002-linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/vanessa-nascimento-03)
+
+<a href="
+https://open.spotify.com/user/21peotxptos3mgz4ct5pmtupa?si=1g3gDdbCRoi0v55REwckEQ"><img src="https://github.com/vanessa-nascimento/vanessa-nascimento/blob/main/057-spotify.png" width="16"></img></a> [Spotify](
+https://open.spotify.com/user/21peotxptos3mgz4ct5pmtupa?si=1g3gDdbCRoi0v55REwckEQ)
+
+
 <center>
 <table>
     <tr>
@@ -20,14 +29,6 @@
     </tr>   
 </table>
 </center>  
-
-### Minhas redes
-
-<a href="https://www.linkedin.com/in/vanessa-nascimento-03"><img src="https://github.com/vanessa-nascimento/vanessa-nascimento/blob/main/002-linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/vanessa-nascimento-03)
-
-<a href="
-https://open.spotify.com/user/21peotxptos3mgz4ct5pmtupa?si=1g3gDdbCRoi0v55REwckEQ"><img src="https://github.com/vanessa-nascimento/vanessa-nascimento/blob/main/057-spotify.png" width="16"></img></a> [Spotify](
-https://open.spotify.com/user/21peotxptos3mgz4ct5pmtupa?si=1g3gDdbCRoi0v55REwckEQ)
 
 
 
