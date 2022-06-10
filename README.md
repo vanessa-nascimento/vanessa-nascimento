@@ -25,8 +25,6 @@
 
 <a href="https://www.linkedin.com/in/vanessa-nascimento-03"><img src="https://github.com/vanessa-nascimento/vanessa-nascimento/blob/main/002-linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/vanessa-nascimento-03)
 
-<a href="https://www.twitter.com/vanenascimento_"><img src="https://github.com/vanessa-nascimento/vanessa-nascimento/blob/main/027-twitter.png" width="16"></img></a> [Twitter](https://www.twitter.com/vanenascimento_)
-
 <a href="
 https://open.spotify.com/user/21peotxptos3mgz4ct5pmtupa?si=1g3gDdbCRoi0v55REwckEQ"><img src="https://github.com/vanessa-nascimento/vanessa-nascimento/blob/main/057-spotify.png" width="16"></img></a> [Spotify](
 https://open.spotify.com/user/21peotxptos3mgz4ct5pmtupa?si=1g3gDdbCRoi0v55REwckEQ)
