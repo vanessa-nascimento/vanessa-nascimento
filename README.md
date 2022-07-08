@@ -14,16 +14,17 @@
 - 🍻 Adoro ler, rir, viajar, me divertir com meus amigos e ficar com os meus gatos, o Gohan e a Mia 🐱🐱
 
 ### Minhas redes
-
+<div>
 <a href="https://www.linkedin.com/in/vanascimento-dev">
        <img src="https://github.com/vanessa-nascimento/vanessa-nascimento/blob/main/002-linkedin.png" width="16"></img>
- </a> [LinkedIn](https://www.linkedin.com/in/vanascimento-dev)
-
+ </a> LinkedIn
+</div>
+<div>
 <a href="https://open.spotify.com/user/21peotxptos3mgz4ct5pmtupa?si=1g3gDdbCRoi0v55REwckEQ">
     <img src="https://github.com/vanessa-nascimento/vanessa-nascimento/blob/main/057-spotify.png" width="16"></img>
-</a> [Spotify](https://open.spotify.com/user/21peotxptos3mgz4ct5pmtupa?si=1g3gDdbCRoi0v55REwckEQ)
-
-
+</a> Spotify
+</div>
+<br />
 <center>
 <table>
     <tr>
