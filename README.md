@@ -1,11 +1,12 @@
-<img src="https://github.com/vanessa-nascimento/vanessa-nascimento/blob/main/github-copia-1.png">
+![Frame 1 (6)](https://github.com/vanessa-nascimento/vanessa-nascimento/assets/31855785/6fd03d03-2d95-43de-b8dc-7a656ed7b0e3)
+
 
 ![](https://komarev.com/ghpvc/?username=vanessa-nascimento&color=blueviolet&style=flat-square&label=Visitas)
 
 ###  👋 Olá! Boas vindas
 - 🥰 Muito prazer, sou a Vanessa!
 - 👩🏻‍💻 Engenheira de Software Full Stack na Jusbrasil e tutora na Coderhouse BR
-- 👩🏻‍🎓 Graduanda em Sistemas de Informação na USP - Universidade de São Paulo
+- 👩🏻‍🎓 Graduada em Sistemas de Informação na USP - Universidade de São Paulo
 - 🌎 Embaixadora de Inovação Cívica na Open Knowledge Brasil
 - 🚀 Atuo na área desde 2016
 - 🪴 Minhas áreas de pesquisa são **Governo Aberto**, Acessibilidade Web e Dados Abertos
