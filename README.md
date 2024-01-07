@@ -1,4 +1,4 @@
-![Capa Github](https://github.com/vanessa-nascimento/vanessa-nascimento/assets/31855785/3f6192eb-a4f9-488b-84dc-bcc0759fac31)
+![Github Capa](https://github.com/vanessa-nascimento/vanessa-nascimento/assets/31855785/97b55c5e-6f42-412e-a56b-3be8063b2d26)
 
 ![](https://komarev.com/ghpvc/?username=vanessa-nascimento&color=blueviolet&style=flat-square&label=Visitas)
 
