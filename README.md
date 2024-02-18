@@ -11,7 +11,7 @@
 - 🪴 Minhas áreas de pesquisa são **Governo Aberto**, Acessibilidade Web e Dados Abertos
 - 💻 Amo e faço parte de comunidades de inclusão feminina e impacto social através da tecnologia
 - 🤓 Amo aprender linguagens e idiomas diferentes
-- 🍻 Adoro ler, rir, viajar, me divertir com meus amigos e ficar com os meus gatos, o Gohan e a Mia 🐱🐱
+- 🍻 Adoro ler, rir, viajar, me divertir com meus amigos e ficar com os meus gatos, o Gohan, Mia e Pan 🐱🐱🐱
 
 ### Minhas redes
 <div>
