@@ -16,13 +16,13 @@
 ### Minhas redes
 <div>
 <a href="https://www.linkedin.com/in/vanascimento-dev">
-       <img src="https://github.com/vanessa-nascimento/vanessa-nascimento/blob/main/002-linkedin.png" width="16"></img>
- </a> LinkedIn
+  <img src="https://github.com/vanessa-nascimento/vanessa-nascimento/blob/main/002-linkedin.png" width="16"></img> LinkedIn
+ </a> 
 </div>
 <div>
 <a href="https://open.spotify.com/user/21peotxptos3mgz4ct5pmtupa?si=1g3gDdbCRoi0v55REwckEQ">
-    <img src="https://github.com/vanessa-nascimento/vanessa-nascimento/blob/main/057-spotify.png" width="16"></img>
-</a> Spotify
+       <img src="https://github.com/vanessa-nascimento/vanessa-nascimento/blob/main/057-spotify.png" width="16"></img> Spotify
+</a>
 </div>
 <br />
 <center>
