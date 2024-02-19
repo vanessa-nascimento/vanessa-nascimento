@@ -10,7 +10,7 @@
 - 🚀 Atuo na área desde 2016
 - 🪴 Minhas áreas de pesquisa são **Governo Aberto**, Acessibilidade Web e Dados Abertos
 - 💻 Amo e faço parte de comunidades de inclusão feminina e impacto social através da tecnologia
-- 🤓 Amo aprender linguagens e idiomas diferentes
+- 🤓 Amo aprender linguagens e idiomas diferentes (fiz francês desde os 14 anos e agora aperfeiçoando o inglês)
 - 🍻 Adoro ler, rir, viajar, me divertir com meus amigos e ficar com os meus gatos: Gohan, Mia e Pan 🐱🐱🐱
 
 ### Minhas redes
