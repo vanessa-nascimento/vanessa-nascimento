@@ -4,7 +4,7 @@
 
 ###  👋 Olá! Boas vindas
 - 🥰 Muito prazer, sou a Vanessa!
-- 👩🏻‍💻 Engenheira de Software Full Stack há mais de 6 anos
+- 👩🏻‍💻 Engenheira de Software Full Stack, trabalhei em grandes empresas como UOL, PicPay, FIAP e Jusbrasil
 - 👩🏻‍🎓 Graduada em Sistemas de Informação na USP - Universidade de São Paulo
 - 🌎 Embaixadora de Inovação Cívica na Open Knowledge Brasil
 - 🚀 Atuo na área desde 2016
