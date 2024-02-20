@@ -5,7 +5,8 @@
 ###  👋 Olá! Boas vindas
 - 🥰 Muito prazer, sou a Vanessa!
 - 👩🏻‍💻 Engenheira de Software Full Stack, trabalhei em grandes empresas como UOL, PicPay, FIAP e Jusbrasil
-- 👩🏻‍🎓 Bacharel em Sistemas de Informação na USP - Universidade de São Paulo e cursando Pós Graduação em Arquitetura de Software na FIAP
+- 👩🏻‍🎓 Bacharel em Sistemas de Informação na USP - Universidade de São Paulo
+- 📚 Cursando Pós Graduação em Arquitetura de Software na FIAP
 - 🌎 Embaixadora de Inovação Cívica na Open Knowledge Brasil
 - 🚀 Atuo na área desde 2016
 - 🪴 Minhas áreas de pesquisa são **Governo Aberto**, Acessibilidade Web e Dados Abertos
